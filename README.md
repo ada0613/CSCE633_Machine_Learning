@@ -1,4 +1,5 @@
 # CSCE633 Machine Learning
+Assignments and projects for CSCE 633 Machine Learning
 
 ## Assignments
 * [pa0_intro_to_python.ipynb](https://github.com/ada0613/CSCE633_Machine_Learning/blob/main/pa0_intro_to_python.ipynb): This assignment tests the basics of Python, NumPy, and Pandas. 
